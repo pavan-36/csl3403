@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ASSIGNMENT 2</title>
+        <link rel="stylesheet" href="style.css">
+<style>
+h1 {
+color : red;
+font-size : 70px;
+font-style : italic;
+text-align : center;
+background: lightblue url("img_tree.gif") no-repeat fixed center;
+  }
+h2 {
+color : blue;
+font-size : 40px;
+ border-bottom: 4px dotted blue;
+ }
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+border: 5px solid red;
+ margin: 25px;
+}
+</style>
+    </head>
+    <body>
+<h1>**MEET ME**</h1>
+<h2>PICTURE : </h2>
+<img src = "pavan.jpeg" width = "350 px" />
+<h2>NAME : </h2>
+<p style="color :green; font-size : 35px">Pavan Maddula </p>
+<h2>BRANCH : </h2>
+<p style="color :green; font-size : 35px">Computer Science and Engineering </p>
+<h2>ROLL NO. : </h2>
+<p style="color :green; font-size : 35px">2006146</p>
+</body>
+</html>
