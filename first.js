@@ -1,1 +1,2 @@
-document.write("Welcome to Javatpoint");  
+var variable = "Hii";
+console.log("" +variable + ",you are in javascript");
