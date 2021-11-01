@@ -1,2 +1,2 @@
 var a = "welcome";
-console.log("HII" + a);
+console.log("HII , this is the code in js file " + a);
