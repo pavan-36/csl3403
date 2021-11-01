@@ -1,2 +1,2 @@
-var variable = "Hii";
-console.log("" +variable + ",you are in javascript");
+var a = "welcome";
+console.log("HII" + a);
